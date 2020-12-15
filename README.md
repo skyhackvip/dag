@@ -14,4 +14,8 @@
 
 扫码关注微信订阅号支持：
 
+技术岁月
+
+techyears
+
 ![技术岁月](https://raw.githubusercontent.com/skyhackvip/ratelimit/master/techyears.jpg)
